@@ -1,0 +1,32 @@
+.box {
+    padding: 20px;
+    border-top: 10px solid  blue;
+    border-left: 10px solid blue;
+    border-right: 10px solid blue;
+    background: rgb(48, 108, 128); 
+    
+    border-bottom: 10px dashed blue;
+    .dsds{
+        border-bottom: 4px dotted blue;
+    }
+    .hjhj{
+        border-bottom: 9px solid green;
+        color: aliceblue;
+
+    }
+    .vbvb{
+        border-top: 9px solid green;
+        padding-top: 20px;
+        color: aliceblue;
+    }
+  }
+
+  div{
+    border: 1px solid gray;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+
+  
